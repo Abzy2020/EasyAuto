@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EasyAuto": {
+      "commandName": "Project",
+      "commandLineArgs": "-o monitor -m Network -e notepad.exe"
+    }
+  }
+}
